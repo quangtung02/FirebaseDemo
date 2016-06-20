@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "368763831003",
+    "firebase_url": "https://sfvn.firebaseio.com",
+    "project_id": "project-628950041480085128",
+    "storage_bucket": "project-628950041480085128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368763831003:android:d994fecfdd9566a2",
+        "android_client_info": {
+          "package_name": "rlm.sfv.org.com.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368763831003-1imkbo1ib1e1ttakk8fnqdnflmrcjp71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9zU2Nb49AaNIoL2HDW4-Lz31I69dKdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
