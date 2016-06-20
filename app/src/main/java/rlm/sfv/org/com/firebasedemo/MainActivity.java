@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mBtnSave.setOnClickListener(this);
 
         // Create a fire base object
-
     }
 
     @Override
