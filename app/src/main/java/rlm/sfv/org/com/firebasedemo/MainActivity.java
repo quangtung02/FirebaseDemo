@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mTxtName = (TextView) findViewById(R.id.text_view_name);
         mTxtAddress = (TextView) findViewById(R.id.text_view_address);
         mBtnSave.setOnClickListener(this);
+
+
     }
 
     @Override
